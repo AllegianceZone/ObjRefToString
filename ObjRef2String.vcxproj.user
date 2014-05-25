@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>tc00:1:.&amp;010000F0CDAB89EABBE3;@&amp;07000000F106;Amount&amp;00040000000000F108;Launcher&amp;000300FFFFFFFFF10C;LauncherName&amp;F0F109;MissionID&amp;00030002000000F107;Vector1&amp;0009001492;$&amp;12B513D3118B;^&amp;00C0;Oh&amp;16;3&amp;03000000;&amp;92;_&amp;C48F;y&amp;81;B+&amp;98DB3EF107;Vector2&amp;0009001492;$&amp;12B513D3118B;^&amp;00C0;Oh&amp;16;3&amp;03000000000000000000000000000000F108;zLifepod&amp;00030000000000F107;HEATER7&amp;00000100F107;.Miner1&amp;F111;U0825013240000208</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>tc00:1:.&amp;010000F0CDAB89EABBE3;@&amp;07000000F106;Amount&amp;00040000000000F108;Launcher&amp;000300FFFFFFFFF10C;LauncherName&amp;F0F109;MissionID&amp;00030002000000F107;Vector1&amp;0009001492;$&amp;12B513D3118B;^&amp;00C0;Oh&amp;16;3&amp;03000000;&amp;92;_&amp;C48F;y&amp;81;B+&amp;98DB3EF107;Vector2&amp;0009001492;$&amp;12B513D3118B;^&amp;00C0;Oh&amp;16;3&amp;03000000000000000000000000000000F108;zLifepod&amp;00030000000000F107;HEATER7&amp;00000100F107;.Miner1&amp;F111;U0825013240000208</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
